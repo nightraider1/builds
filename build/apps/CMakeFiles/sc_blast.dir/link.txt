@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/sc_blast.dir/sc_blast.cpp.o  -o sc_blast  ../src/libfvm_solver_lib.a ../../libs/sslabs-core-latest/lib/libsslabs_core_grids.a -lmpichcxx -lmpich 

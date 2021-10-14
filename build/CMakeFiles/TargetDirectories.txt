@@ -1,0 +1,11 @@
+/home/om/SSL/temp/temp/issues/3d_fvm/build/CMakeFiles/rebuild_cache.dir
+/home/om/SSL/temp/temp/issues/3d_fvm/build/CMakeFiles/edit_cache.dir
+/home/om/SSL/temp/temp/issues/3d_fvm/build/src/CMakeFiles/rebuild_cache.dir
+/home/om/SSL/temp/temp/issues/3d_fvm/build/src/CMakeFiles/edit_cache.dir
+/home/om/SSL/temp/temp/issues/3d_fvm/build/src/CMakeFiles/fvm_solver_lib.dir
+/home/om/SSL/temp/temp/issues/3d_fvm/build/apps/CMakeFiles/rebuild_cache.dir
+/home/om/SSL/temp/temp/issues/3d_fvm/build/apps/CMakeFiles/edit_cache.dir
+/home/om/SSL/temp/temp/issues/3d_fvm/build/apps/CMakeFiles/sc_blast.dir
+/home/om/SSL/temp/temp/issues/3d_fvm/build/tests/CMakeFiles/rebuild_cache.dir
+/home/om/SSL/temp/temp/issues/3d_fvm/build/tests/CMakeFiles/edit_cache.dir
+/home/om/SSL/temp/temp/issues/3d_fvm/build/tests/CMakeFiles/all_test.dir

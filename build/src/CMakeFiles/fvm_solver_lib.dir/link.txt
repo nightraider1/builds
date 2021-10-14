@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfvm_solver_lib.a  CMakeFiles/fvm_solver_lib.dir/simulation_parameter.cpp.o CMakeFiles/fvm_solver_lib.dir/domain.cpp.o CMakeFiles/fvm_solver_lib.dir/simulate.cpp.o CMakeFiles/fvm_solver_lib.dir/stencil.cpp.o
+/usr/bin/ranlib libfvm_solver_lib.a
